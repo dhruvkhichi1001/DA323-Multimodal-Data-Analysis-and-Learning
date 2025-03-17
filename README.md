@@ -12,7 +12,7 @@ This repository contains Jupyter Notebooks for automating dataset collection and
 | **Text Dataset Collection** | Scrapes, processes, and structures text data from various sources. |
 | **Audio Dataset Collection** | Gathers audio datasets. |
 | **Weather Dataset Collection** | Collects real-time and historical weather data for analysis and forecasting. |
-| **Search for a match** | analyzes visual features in the videos and matches them with acoustic features extracted from the audio files. |
+| **Search for a match** | Analyzes visual features in the videos and matches them with acoustic features extracted from the audio files. |
 | **Analyzing India with Data** | Uses pollution datasets to derive insights about India’s air pollution. |
 
 ---
